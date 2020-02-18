@@ -9,3 +9,14 @@ D:\OpenServer\domains\localhost\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoIn
 D:\OpenServer\domains\localhost\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
 D:\OpenServer\domains\localhost\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
 D:\OpenServer\domains\localhost\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
+D:\OpenServer\domains\localhost\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.deps.json
+D:\OpenServer\domains\localhost\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.json
+D:\OpenServer\domains\localhost\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.runtimeconfig.dev.json
+D:\OpenServer\domains\localhost\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.dll
+D:\OpenServer\domains\localhost\Lab1\Lab1\bin\Debug\netcoreapp2.1\Lab1.pdb
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csprojAssemblyReference.cache
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.csproj.CoreCompileInputs.cache
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfoInputs.cache
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.AssemblyInfo.cs
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.dll
+D:\OpenServer\domains\localhost\Lab1\Lab1\obj\Debug\netcoreapp2.1\Lab1.pdb
